@@ -12,7 +12,7 @@
 
 2. Chose your preferred container
     ```bash
-    $ cd DockerFiles
+    $ cd DockerContainers
     $ cd <THE_CONTAINER_YOU_WANT>
     ```
 
